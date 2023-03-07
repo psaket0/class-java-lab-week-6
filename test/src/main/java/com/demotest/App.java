@@ -54,9 +54,8 @@ public class App {
     // create the resulting classes joined together
     classResult = new String [n];
 
-    for (int i = 0; i < classResult.length; i += 1) {
-        System.out.printf("[%d] %s\n", i + 1, classResult[i]);
-      }
+   
+    
 
        
        
