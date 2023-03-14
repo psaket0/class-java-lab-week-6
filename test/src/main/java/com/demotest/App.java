@@ -55,7 +55,7 @@ public class App {
     classResult = new String [n];
 
    
-    
+    //Class expanation with Mr. Solomon 
 
        
        
